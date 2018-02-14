@@ -1,0 +1,7 @@
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\16. Instruction Set\bin\Debug\_16.Instruction_Set.exe.config
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\16. Instruction Set\bin\Debug\_16.Instruction_Set.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\16. Instruction Set\bin\Debug\_16.Instruction_Set.pdb
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\16. Instruction Set\obj\Debug\16. Instruction Set.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\16. Instruction Set\obj\Debug\16. Instruction Set.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\16. Instruction Set\obj\Debug\_16.Instruction_Set.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\16. Instruction Set\obj\Debug\_16.Instruction_Set.pdb

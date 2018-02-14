@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+D:\Visual Studio\Strings and Text Processing - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+D:\Visual Studio\Strings and Text Processing - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+D:\Visual Studio\Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\03. Unicode Characters.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+D:\Visual Studio\Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb

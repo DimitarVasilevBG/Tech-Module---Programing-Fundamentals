@@ -1,0 +1,6 @@
+D:\Visual Studio\Files and Exceptions - Exercises\5. A Miner Task\bin\Debug\_5.A_Miner_Task.exe.config
+D:\Visual Studio\Files and Exceptions - Exercises\5. A Miner Task\bin\Debug\_5.A_Miner_Task.exe
+D:\Visual Studio\Files and Exceptions - Exercises\5. A Miner Task\bin\Debug\_5.A_Miner_Task.pdb
+D:\Visual Studio\Files and Exceptions - Exercises\5. A Miner Task\obj\Debug\5. A Miner Task.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Files and Exceptions - Exercises\5. A Miner Task\obj\Debug\_5.A_Miner_Task.exe
+D:\Visual Studio\Files and Exceptions - Exercises\5. A Miner Task\obj\Debug\_5.A_Miner_Task.pdb

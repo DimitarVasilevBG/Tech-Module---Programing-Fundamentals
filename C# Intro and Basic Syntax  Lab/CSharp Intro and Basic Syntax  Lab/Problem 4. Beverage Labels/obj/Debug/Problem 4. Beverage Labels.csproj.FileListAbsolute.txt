@@ -1,0 +1,6 @@
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 4. Beverage Labels\bin\Debug\Problem_4.Beverage_Labels.exe.config
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 4. Beverage Labels\bin\Debug\Problem_4.Beverage_Labels.exe
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 4. Beverage Labels\bin\Debug\Problem_4.Beverage_Labels.pdb
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 4. Beverage Labels\obj\Debug\Problem 4. Beverage Labels.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 4. Beverage Labels\obj\Debug\Problem_4.Beverage_Labels.exe
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 4. Beverage Labels\obj\Debug\Problem_4.Beverage_Labels.pdb

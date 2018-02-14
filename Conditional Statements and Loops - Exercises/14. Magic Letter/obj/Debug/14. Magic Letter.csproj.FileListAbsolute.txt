@@ -1,0 +1,7 @@
+D:\Visual Studio\Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe.config
+D:\Visual Studio\Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe
+D:\Visual Studio\Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\_14.Magic_Letter.pdb
+D:\Visual Studio\Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\14. Magic Letter.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\14. Magic Letter.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\_14.Magic_Letter.exe
+D:\Visual Studio\Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\_14.Magic_Letter.pdb

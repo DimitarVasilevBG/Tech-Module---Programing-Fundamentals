@@ -1,0 +1,7 @@
+D:\Visual Studio\Exam Preparation III\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe.config
+D:\Visual Studio\Exam Preparation III\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe
+D:\Visual Studio\Exam Preparation III\03. Rage Quit\bin\Debug\_03.Rage_Quit.pdb
+D:\Visual Studio\Exam Preparation III\03. Rage Quit\obj\Debug\03. Rage Quit.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exam Preparation III\03. Rage Quit\obj\Debug\03. Rage Quit.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Exam Preparation III\03. Rage Quit\obj\Debug\_03.Rage_Quit.exe
+D:\Visual Studio\Exam Preparation III\03. Rage Quit\obj\Debug\_03.Rage_Quit.pdb

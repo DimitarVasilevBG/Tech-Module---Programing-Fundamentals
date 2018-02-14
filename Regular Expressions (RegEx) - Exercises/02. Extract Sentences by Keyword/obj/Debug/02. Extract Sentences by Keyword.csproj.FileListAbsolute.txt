@@ -1,0 +1,6 @@
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe.config
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.pdb
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\02. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.exe
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe.config
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\bin\Debug\_10.Cube_Properties.pdb
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\10. Cube Properties.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\10. Cube Properties.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\_10.Cube_Properties.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\10. Cube Properties\obj\Debug\_10.Cube_Properties.pdb

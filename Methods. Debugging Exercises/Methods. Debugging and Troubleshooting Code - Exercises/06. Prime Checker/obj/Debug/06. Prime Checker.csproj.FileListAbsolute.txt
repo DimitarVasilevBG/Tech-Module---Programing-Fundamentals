@@ -1,0 +1,7 @@
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe.config
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.pdb
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\06. Prime Checker.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\06. Prime Checker.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\_06.Prime_Checker.exe
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\_06.Prime_Checker.pdb

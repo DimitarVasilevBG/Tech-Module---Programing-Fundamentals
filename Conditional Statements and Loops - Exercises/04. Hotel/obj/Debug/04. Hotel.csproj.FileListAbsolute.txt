@@ -1,0 +1,7 @@
+D:\Visual Studio\Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe.config
+D:\Visual Studio\Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe
+D:\Visual Studio\Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.pdb
+D:\Visual Studio\Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\04. Hotel.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\04. Hotel.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.exe
+D:\Visual Studio\Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.pdb

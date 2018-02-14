@@ -1,0 +1,7 @@
+D:\Visual Studio\Arrays - Exercises\06. Max Sequence of Equal Elements\bin\Debug\_06.Max_Sequence_of_Equal_Elements.exe.config
+D:\Visual Studio\Arrays - Exercises\06. Max Sequence of Equal Elements\bin\Debug\_06.Max_Sequence_of_Equal_Elements.exe
+D:\Visual Studio\Arrays - Exercises\06. Max Sequence of Equal Elements\bin\Debug\_06.Max_Sequence_of_Equal_Elements.pdb
+D:\Visual Studio\Arrays - Exercises\06. Max Sequence of Equal Elements\obj\Debug\06. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Arrays - Exercises\06. Max Sequence of Equal Elements\obj\Debug\_06.Max_Sequence_of_Equal_Elements.exe
+D:\Visual Studio\Arrays - Exercises\06. Max Sequence of Equal Elements\obj\Debug\_06.Max_Sequence_of_Equal_Elements.pdb
+D:\Visual Studio\Arrays - Exercises\06. Max Sequence of Equal Elements\obj\Debug\06. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache

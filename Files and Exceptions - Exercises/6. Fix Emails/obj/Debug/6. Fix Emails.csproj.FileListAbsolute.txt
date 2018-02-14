@@ -1,0 +1,7 @@
+D:\Visual Studio\Files and Exceptions - Exercises\6. Fix Emails\bin\Debug\_6.Fix_Emails.exe.config
+D:\Visual Studio\Files and Exceptions - Exercises\6. Fix Emails\bin\Debug\_6.Fix_Emails.exe
+D:\Visual Studio\Files and Exceptions - Exercises\6. Fix Emails\bin\Debug\_6.Fix_Emails.pdb
+D:\Visual Studio\Files and Exceptions - Exercises\6. Fix Emails\obj\Debug\6. Fix Emails.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Files and Exceptions - Exercises\6. Fix Emails\obj\Debug\6. Fix Emails.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Files and Exceptions - Exercises\6. Fix Emails\obj\Debug\_6.Fix_Emails.exe
+D:\Visual Studio\Files and Exceptions - Exercises\6. Fix Emails\obj\Debug\_6.Fix_Emails.pdb

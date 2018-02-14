@@ -1,0 +1,6 @@
+D:\Visual Studio\Arrays - Exercises\Rotate and Sum\bin\Debug\Rotate and Sum.exe.config
+D:\Visual Studio\Arrays - Exercises\Rotate and Sum\bin\Debug\Rotate and Sum.exe
+D:\Visual Studio\Arrays - Exercises\Rotate and Sum\bin\Debug\Rotate and Sum.pdb
+D:\Visual Studio\Arrays - Exercises\Rotate and Sum\obj\Debug\2.Rotate and Sum.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Arrays - Exercises\Rotate and Sum\obj\Debug\Rotate and Sum.exe
+D:\Visual Studio\Arrays - Exercises\Rotate and Sum\obj\Debug\Rotate and Sum.pdb

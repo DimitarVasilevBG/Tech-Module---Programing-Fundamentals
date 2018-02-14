@@ -1,0 +1,7 @@
+D:\Visual Studio\Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe.config
+D:\Visual Studio\Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe
+D:\Visual Studio\Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.pdb
+D:\Visual Studio\Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\04. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\04. Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.exe
+D:\Visual Studio\Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Files and Exceptions - Exercises\4. Max Sequence of Equal Elements\obj\Debug\4. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Files and Exceptions - Exercises\4. Max Sequence of Equal Elements\bin\Debug\_4.Max_Sequence_of_Equal_Elements.exe.config
+D:\Visual Studio\Files and Exceptions - Exercises\4. Max Sequence of Equal Elements\bin\Debug\_4.Max_Sequence_of_Equal_Elements.exe
+D:\Visual Studio\Files and Exceptions - Exercises\4. Max Sequence of Equal Elements\bin\Debug\_4.Max_Sequence_of_Equal_Elements.pdb
+D:\Visual Studio\Files and Exceptions - Exercises\4. Max Sequence of Equal Elements\obj\Debug\_4.Max_Sequence_of_Equal_Elements.exe
+D:\Visual Studio\Files and Exceptions - Exercises\4. Max Sequence of Equal Elements\obj\Debug\_4.Max_Sequence_of_Equal_Elements.pdb

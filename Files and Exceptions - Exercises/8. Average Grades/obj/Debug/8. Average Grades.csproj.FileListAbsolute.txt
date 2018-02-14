@@ -1,0 +1,6 @@
+D:\Visual Studio\Files and Exceptions - Exercises\8. Average Grades\bin\Debug\_8.Average_Grades.exe.config
+D:\Visual Studio\Files and Exceptions - Exercises\8. Average Grades\bin\Debug\_8.Average_Grades.exe
+D:\Visual Studio\Files and Exceptions - Exercises\8. Average Grades\bin\Debug\_8.Average_Grades.pdb
+D:\Visual Studio\Files and Exceptions - Exercises\8. Average Grades\obj\Debug\8. Average Grades.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Files and Exceptions - Exercises\8. Average Grades\obj\Debug\_8.Average_Grades.exe
+D:\Visual Studio\Files and Exceptions - Exercises\8. Average Grades\obj\Debug\_8.Average_Grades.pdb

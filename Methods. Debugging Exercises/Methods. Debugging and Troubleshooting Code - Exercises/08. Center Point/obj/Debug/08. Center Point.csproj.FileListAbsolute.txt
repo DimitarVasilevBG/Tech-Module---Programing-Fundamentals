@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe.config
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\bin\Debug\_08.Center_Point.pdb
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\08. Center Point.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\_08.Center_Point.exe
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\_08.Center_Point.pdb

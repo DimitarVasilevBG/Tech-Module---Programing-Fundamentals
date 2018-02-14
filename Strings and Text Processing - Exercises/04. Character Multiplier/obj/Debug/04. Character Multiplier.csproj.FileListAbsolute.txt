@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - Exercises\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe.config
+D:\Visual Studio\Strings and Text Processing - Exercises\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe
+D:\Visual Studio\Strings and Text Processing - Exercises\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.pdb
+D:\Visual Studio\Strings and Text Processing - Exercises\04. Character Multiplier\obj\Debug\04. Character Multiplier.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Strings and Text Processing - Exercises\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.exe
+D:\Visual Studio\Strings and Text Processing - Exercises\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio\Files and Exceptions - Exercises\1. Most Frequent Number\bin\Debug\_1.Most_Frequent_Number.exe.config
+D:\Visual Studio\Files and Exceptions - Exercises\1. Most Frequent Number\bin\Debug\_1.Most_Frequent_Number.exe
+D:\Visual Studio\Files and Exceptions - Exercises\1. Most Frequent Number\bin\Debug\_1.Most_Frequent_Number.pdb
+D:\Visual Studio\Files and Exceptions - Exercises\1. Most Frequent Number\obj\Debug\1. Most Frequent Number.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Files and Exceptions - Exercises\1. Most Frequent Number\obj\Debug\1. Most Frequent Number.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Files and Exceptions - Exercises\1. Most Frequent Number\obj\Debug\_1.Most_Frequent_Number.exe
+D:\Visual Studio\Files and Exceptions - Exercises\1. Most Frequent Number\obj\Debug\_1.Most_Frequent_Number.pdb

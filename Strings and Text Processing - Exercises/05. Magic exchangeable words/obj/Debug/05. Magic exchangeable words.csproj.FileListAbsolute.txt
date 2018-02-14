@@ -1,0 +1,6 @@
+D:\Visual Studio\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe.config
+D:\Visual Studio\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe
+D:\Visual Studio\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.pdb
+D:\Visual Studio\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\05. Magic exchangeable words.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.exe
+D:\Visual Studio\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio\Exam Preparation III\01. Softuni Coffee Orders\bin\Debug\_01.Softuni_Coffee_Orders.exe.config
+D:\Visual Studio\Exam Preparation III\01. Softuni Coffee Orders\bin\Debug\_01.Softuni_Coffee_Orders.exe
+D:\Visual Studio\Exam Preparation III\01. Softuni Coffee Orders\bin\Debug\_01.Softuni_Coffee_Orders.pdb
+D:\Visual Studio\Exam Preparation III\01. Softuni Coffee Orders\obj\Debug\01. Softuni Coffee Orders.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Exam Preparation III\01. Softuni Coffee Orders\obj\Debug\01. Softuni Coffee Orders.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Exam Preparation III\01. Softuni Coffee Orders\obj\Debug\_01.Softuni_Coffee_Orders.exe
+D:\Visual Studio\Exam Preparation III\01. Softuni Coffee Orders\obj\Debug\_01.Softuni_Coffee_Orders.pdb

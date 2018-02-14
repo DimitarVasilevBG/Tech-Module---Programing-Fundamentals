@@ -1,0 +1,7 @@
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\bin\Debug\_17.Be_Positive.exe.config
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\bin\Debug\_17.Be_Positive.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\bin\Debug\_17.Be_Positive.pdb
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\obj\Debug\17. Be Positive.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\obj\Debug\_17.Be_Positive.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\obj\Debug\_17.Be_Positive.pdb
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\obj\Debug\17. Be Positive.csprojResolveAssemblyReference.cache

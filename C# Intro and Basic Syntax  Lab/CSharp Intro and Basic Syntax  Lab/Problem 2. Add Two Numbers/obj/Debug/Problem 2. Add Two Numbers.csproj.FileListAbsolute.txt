@@ -1,0 +1,6 @@
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 2. Add Two Numbers\bin\Debug\Problem_2.Add_Two_Numbers.exe.config
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 2. Add Two Numbers\bin\Debug\Problem_2.Add_Two_Numbers.exe
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 2. Add Two Numbers\bin\Debug\Problem_2.Add_Two_Numbers.pdb
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 2. Add Two Numbers\obj\Debug\Problem 2. Add Two Numbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 2. Add Two Numbers\obj\Debug\Problem_2.Add_Two_Numbers.exe
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 2. Add Two Numbers\obj\Debug\Problem_2.Add_Two_Numbers.pdb

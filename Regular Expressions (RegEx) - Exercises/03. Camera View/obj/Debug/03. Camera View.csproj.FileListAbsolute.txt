@@ -1,0 +1,7 @@
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\_03.Camera_View.exe.config
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\_03.Camera_View.exe
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\_03.Camera_View.pdb
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\03. Camera View.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\_03.Camera_View.exe
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\_03.Camera_View.pdb
+D:\Visual Studio\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\03. Camera View.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\9. Longer Line\obj\Debug\9. Longer Line.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\9. Longer Line\bin\Debug\_9.Longer_Line.exe.config
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\9. Longer Line\bin\Debug\_9.Longer_Line.exe
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\9. Longer Line\bin\Debug\_9.Longer_Line.pdb
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\9. Longer Line\obj\Debug\_9.Longer_Line.exe
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\9. Longer Line\obj\Debug\_9.Longer_Line.pdb

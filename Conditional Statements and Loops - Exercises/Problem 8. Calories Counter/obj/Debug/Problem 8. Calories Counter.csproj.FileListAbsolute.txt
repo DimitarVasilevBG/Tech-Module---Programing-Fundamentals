@@ -1,0 +1,6 @@
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.exe.config
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.exe
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.pdb
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 8. Calories Counter\obj\Debug\Problem 8. Calories Counter.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 8. Calories Counter\obj\Debug\Problem_8.Calories_Counter.exe
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 8. Calories Counter\obj\Debug\Problem_8.Calories_Counter.pdb

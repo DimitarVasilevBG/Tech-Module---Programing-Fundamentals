@@ -1,0 +1,6 @@
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe.config
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.pdb
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\obj\Debug\Problem 10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.exe
+D:\Visual Studio\Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.pdb

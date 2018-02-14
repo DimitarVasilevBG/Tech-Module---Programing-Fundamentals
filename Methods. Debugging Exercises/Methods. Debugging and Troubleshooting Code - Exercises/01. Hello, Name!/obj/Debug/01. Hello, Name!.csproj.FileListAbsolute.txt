@@ -1,0 +1,7 @@
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe.config
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.pdb
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\obj\Debug\01. Hello, Name!.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\obj\Debug\01. Hello, Name!.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.exe
+D:\Visual Studio\Methods. Debugging Exercises\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.pdb

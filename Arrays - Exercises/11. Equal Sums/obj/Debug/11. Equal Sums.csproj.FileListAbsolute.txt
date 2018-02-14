@@ -1,0 +1,6 @@
+D:\Visual Studio\Arrays - Exercises\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe.config
+D:\Visual Studio\Arrays - Exercises\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe
+D:\Visual Studio\Arrays - Exercises\11. Equal Sums\bin\Debug\_11.Equal_Sums.pdb
+D:\Visual Studio\Arrays - Exercises\11. Equal Sums\obj\Debug\11. Equal Sums.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Arrays - Exercises\11. Equal Sums\obj\Debug\_11.Equal_Sums.exe
+D:\Visual Studio\Arrays - Exercises\11. Equal Sums\obj\Debug\_11.Equal_Sums.pdb

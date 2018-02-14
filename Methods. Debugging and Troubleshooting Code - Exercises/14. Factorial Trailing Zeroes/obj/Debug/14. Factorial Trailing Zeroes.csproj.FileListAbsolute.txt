@@ -1,0 +1,6 @@
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe.config
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.pdb
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\14. Factorial Trailing Zeroes.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.pdb

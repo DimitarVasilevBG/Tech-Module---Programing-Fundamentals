@@ -1,0 +1,6 @@
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.exe.config
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.exe
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.pdb
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 3. Miles to Kilometers\obj\Debug\Problem 3. Miles to Kilometers.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 3. Miles to Kilometers\obj\Debug\Problem_3.Miles_to_Kilometers.exe
+D:\Visual Studio\C# Intro and Basic Syntax  Lab\CSharp Intro and Basic Syntax  Lab\Problem 3. Miles to Kilometers\obj\Debug\Problem_3.Miles_to_Kilometers.pdb

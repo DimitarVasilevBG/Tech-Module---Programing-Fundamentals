@@ -1,0 +1,7 @@
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\13.Factorial\bin\Debug\13.Factorial.exe.config
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\13.Factorial\bin\Debug\13.Factorial.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\13.Factorial\bin\Debug\13.Factorial.pdb
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\13.Factorial\obj\Debug\13.Factorial.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\13.Factorial\obj\Debug\13.Factorial.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\13.Factorial\obj\Debug\13.Factorial.exe
+D:\Visual Studio\Methods. Debugging and Troubleshooting Code - Exercises\13.Factorial\obj\Debug\13.Factorial.pdb

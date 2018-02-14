@@ -1,0 +1,6 @@
+D:\Visual Studio\Arrays - Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+D:\Visual Studio\Arrays - Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+D:\Visual Studio\Arrays - Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+D:\Visual Studio\Arrays - Exercises\10. Pairs by Difference\obj\Debug\10. Pairs by Difference.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Arrays - Exercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+D:\Visual Studio\Arrays - Exercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb
